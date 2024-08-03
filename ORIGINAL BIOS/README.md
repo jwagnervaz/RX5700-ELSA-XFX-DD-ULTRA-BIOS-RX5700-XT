@@ -1,20 +1,34 @@
 MD5 Hash:	5ae7451d59013f19f21f0bd69be3c209
+
 SHA1 Hash:	c515274fb1a7f00057313807bce92c38526c5828
 
 GPU Device Id: 0x1002 0x731F
+
 xxx-xxx-xxx
+
 NAVI10 A1/A2 D19902 Fighter XL 8GB 300e/875m
+
 (C) 1988-2018, Advanced Micro Devices, Inc.
+
 ATOMBIOSBK-AMD VER 017.001.000.049.000000
+
 n10xl158w
+
+
 Adjustment Range
+
   GPU: 800 MHz to 1850 MHz
+  
   Memory: 1250 MHz to 1860 MHz
+  
   Power: -50% to +20%
+  
 Power Limit
+
   Total: 158 W
   GPU: 170 A
   SOC: 14 A
+  
 Thermal Limit
   Edge: 100°C
   Hotspot: 110°C

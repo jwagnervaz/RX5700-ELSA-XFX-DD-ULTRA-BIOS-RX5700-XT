@@ -38,6 +38,7 @@ Thermal Limit
   VR Mem 2: 115°C
   VR SOC: 115°C
   Shutdown Temp.: 118°C
+  
 Fan Speed
   Target Temperature: 90°C
   Acoustic Target: 2100 RPM
@@ -46,13 +47,16 @@ Fan Speed
   Fan Stop supported: Yes
   Fan Start: 50°C
   Fan Stop: 60°C
+  
 Voltage
   GPU Voltage: 800 mV to 1200 mV
   SOC Voltage: 800 mV to 1050 mV
+  
 Memory Support
   8192 MB, GDDR6, Autodetect 
   8192 MB, GDDR6, Micron MT61K256M32
   8192 MB, GDDR6, Samsung K4Z80325BC
+  
 Memory Timings (Samsung)
   tCL
   125 MHz: 5
@@ -66,6 +70,7 @@ Memory Timings (Samsung)
   1800 MHz: 28
   2000 MHz: 32
   2250 MHz: 35
+  
 Memory Timings (Micron)
   tCL
   125 MHz: 4
